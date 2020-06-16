@@ -1,6 +1,6 @@
 ### GCP Serverless DevOps Showcase 
 
-![SAMBA Deployment](presentation/assets/image/migros.jpeg)
+![SAMBA Deployment](presentation/assets/image/intro.jpg)
 
 ---?include=presentation/intro/question/PITCHME.md
 
