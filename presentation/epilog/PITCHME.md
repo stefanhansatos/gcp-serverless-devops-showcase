@@ -7,10 +7,10 @@
 @transition[none]
 
 ### Links and Contact
-[<i style="font-size:24px" class="fab">&#xf09b; migros-showcase</i>](https://github.com/stefanhansatos/migros-showcase)
+[<i style="font-size:24px" class="fab">&#xf09b; gcp-serverless-devops-showcase</i>](https://github.com/stefanhansatos/gcp-serverless-devops-showcase)
 [<i style="font-size:24px" class="fab">&#xf09b; serverless_frontend_showcase</i>](https://github.com/stefanhans/serverless_frontend_showcase)
 <br>
-[<i style="font-size:24px" class="fab">&#xf09b; talk "GCP/Firebase & Cloud Functions Combined To Serverless DevOps"</i>](https://gitpitch.com/stefanhansatos/migros-showcase#/)
+[<i style="font-size:24px" class="fab">&#xf09b; talk "GCP Serverless DevOps Showcase"</i>](https://gitpitch.com/stefanhansatos/gcp-serverless-devops-showcase#/)
 <br>
 [<i style="font-size:24px" class="fab">&#xf268; gitpitch.com</i>](https://gitpitch.com/)
 [<i style="font-size:24px" class="fab">&#xf268; wordart.com</i>](https://wordart.com/)
