@@ -2,7 +2,7 @@
 
 - Professionalism of Google |
 - Infrastructure and services provided |
-- Pay as you go |
+- Pay what you use |
 - Unix philosophy (microservices) |
 - Highly flexible and dynamic |
  
