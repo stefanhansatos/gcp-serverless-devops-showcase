@@ -1,4 +1,4 @@
-# Gitpitch Presentation "Showcase of Serverless DevOps on GCP/Firebase"
+# GitPitch "GCP Serverless DevOps Showcase"
 
-Talk (WIP) https://gitpitch.com/stefanhansatos/migros-showcase/presentation#/
+Talk (WIP) https://gitpitch.com/stefanhansatos/gcp-serverless-devops-showcase#/
 
