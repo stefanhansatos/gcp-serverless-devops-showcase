@@ -1,7 +1,8 @@
 ## Flexible Data Pipelines
 
-- Cloud Pub/Sub Topics (fan-in/out) |
-- Wireformat JSON (protobuf/gRPC) |
+- Accessable by HTTP requests |
+- Conectable by Pub/Sub Topics |
+- Combinable Wireformats <br> JSON and protobuf/gRPC |
 - Cloud Functions as service clients |
 
 ---
