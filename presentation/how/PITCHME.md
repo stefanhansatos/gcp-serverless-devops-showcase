@@ -1,9 +1,10 @@
 ## Flexible Data Pipelines
 
 - Accessable by HTTP requests |
-- Conectable by Pub/Sub Topics |
-- Combinable Wireformats <br> JSON and protobuf/gRPC |
+- Connectable by Pub/Sub Topics |
+- Combinable wireformats <br> JSON and protobuf (with gRPC) |
 - Cloud Functions as service clients |
+- Language-agnostic
 
 ---
 ## DevOps
