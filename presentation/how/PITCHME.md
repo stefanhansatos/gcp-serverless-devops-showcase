@@ -2,7 +2,7 @@
 
 - Accessible by HTTP requests |
 - Connectable by Pub/Sub Topics |
-- Combinable message formats <br> JSON and ProtocolBuffer (gRPC) |
+- Combinable message data formats <br> JSON and ProtocolBuffer (gRPC) |
 - Cloud Functions as service clients |
 - Language-agnostic
 
